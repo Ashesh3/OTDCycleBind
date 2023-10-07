@@ -1,5 +1,7 @@
 # Cycle Keybind Plugin for [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)
 
+The Cycle Bind plugin for OpenTabletDriver offers users an enhanced key binding experience by allowing them to set multiple keys to be pressed in a sequential cycle.
+
 ### Installation:
 1. Download the latest release from the release section.
 2. Place the downloaded .dll file into your OpenTabletDriver Plugins folder.
